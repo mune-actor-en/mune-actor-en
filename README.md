@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi👋, I'm Mune
 
-<!--
-**mune-actor-en/mune-actor-en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work as a freelance web engineer and live in Kumamoto, Japan.
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Here are some ideas to get you started:
+## GitHub Analytics
+<p align="left">
+<a href="https://github.com/mune-actor-en">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mune-actor-en&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mune-actor-en&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=mune-actor-en&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Tech stacks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,nodejs,tailwind,materialui,docker,postgres,express,figma,firebase,github,git&perline=14" />
+  </a>
+</p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
